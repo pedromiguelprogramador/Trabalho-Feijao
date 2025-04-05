@@ -53,3 +53,18 @@ main {
     max-width: 1200px;
     min-width: 600px;
 }
+
+main a {
+    padding: 0px 200px;
+}
+
+main > p {
+    padding: 10px 10px 2px 10px;
+    line-height: 1.8em;
+    font-size: 1.3em;
+}
+
+main > p.resp {
+    padding: 10px 10px 20px 10px;
+    line-height: 1.2em;
+}
