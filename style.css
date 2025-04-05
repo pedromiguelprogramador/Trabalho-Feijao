@@ -50,8 +50,7 @@ header > menu > a:hover {
 main {
     margin: auto;
     background-color: white;
-    max-width: 1200px;
-    min-width: 600px;
+    width: 1200px;
 }
 
 main a {
